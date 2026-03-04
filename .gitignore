@@ -1,0 +1,23 @@
+# 모델 파일
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.pt
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 로그
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
